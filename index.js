@@ -7,7 +7,7 @@ function printBadges(names){
   return names
 }
 
-function tailsNeverFails (tails) {
+function tailsNeverFails(tails) {
   tails = 0;
 
   while (Math.random() >= 0.5) {
